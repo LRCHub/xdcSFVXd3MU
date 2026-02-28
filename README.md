@@ -1,0 +1,33 @@
+# The Beatles – Here, There And Everywhere (Remastered 2009)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:01.25] To lead a better life
+[00:04.23] I need my love to be here
+[00:16.73] 
+[00:09.95] Here, making each day of the year
+[00:18.64] Changing my life with a wave of her hand
+[00:24.40] Nobody can deny that there's something there
+[00:46.40] 
+[00:33.26] There, running my hands through her hair
+[00:42.07] Both of us thinking how good it can be
+[00:47.51] Someone is speaking, but she doesn't know he's there
+[01:13.51] 
+[00:55.28] I want her everywhere
+[00:58.95] And if she's beside me, I know I need never care
+[01:05.01] But to love her is to need her everywhere
+[01:10.73] Knowing that love is to share
+[01:16.41] Each one believing that love never dies
+[01:22.17] Watching her eyes and hoping I'm always there
+[01:44.67] 
+[01:30.29] I want her everywhere
+[01:33.59] And if she's beside me, I know I need never care
+[01:39.79] But to love her is to need her everywhere
+[01:45.52] Knowing that love is to share
+[01:51.33] Each one believing that love never dies
+[01:56.88] Watching her eyes and hoping I'm always there
+[02:19.38] 
+[02:05.15] I will be there and everywhere
+[02:11.95] Here, there and everywhere
+```
