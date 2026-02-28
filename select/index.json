@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Here, There And Everywhere (Remastered 2009)",
+  "base_artist": "The Beatles",
+  "createdAt": "2026-02-28T02:00:52.000260Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Here, There And Everywhere - Remastered",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/01_Here,_There_And_Everywhere_-_Remastered_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Here, There And Everywhere (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/02_Here,_There_And_Everywhere_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Here, There And Everywhere (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/03_Here,_There_And_Everywhere_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Here, There And Everywhere (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/04_Here,_There_And_Everywhere_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Here, There And Everywhere (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/05_Here,_There_And_Everywhere_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Here, There And Everywhere - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/06_Here,_There_And_Everywhere_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Here, There And Everywhere (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/07_Here,_There_And_Everywhere_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Here, There And Everywhere - Remastered 2009 (Paused)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/08_Here,_There_And_Everywhere_-_Remastered_2009_(Paused)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Here, There And Everywhere - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/09_Here,_There_And_Everywhere_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Here, There And Everywhere (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/10_Here,_There_And_Everywhere_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Here, There And Everywhere (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/11_Here,_There_And_Everywhere_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Here There And Everywhere - Remastered 1993",
+      "artist": "Paul McCartney",
+      "has_synced": false,
+      "path": "select/12_Here_There_And_Everywhere_-_Remastered_1993_Paul_McCartney.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Here, There and Everywhere (Remastered)",
+      "artist": "Emmylou Harris",
+      "has_synced": false,
+      "path": "select/13_Here,_There_and_Everywhere_(Remastered)_Emmylou_Harris.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Here, There And Everywhere (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/14_Here,_There_And_Everywhere_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Here, There and Everywhere",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_Here,_There_and_Everywhere_The_Beatles.txt"
+    }
+  ]
+}
